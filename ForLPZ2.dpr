@@ -1,8 +1,8 @@
-program ForLPZ.md;
+program ForLPZ2;
 
 uses
   Vcl.Forms,
-  HelloWorld123 in 'C:\Users\IS_groups\Desktop\Delphi\HelloWorld123.pas' {Form1};
+  ForLPZ in 'ForLPZ.pas' {Form1};
 
 {$R *.res}
 
